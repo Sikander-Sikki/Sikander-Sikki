@@ -30,4 +30,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sikander-sikki&show_icons=true&locale=en" alt="sikander-sikki" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sikander-sikki&" alt="sikander-sikki" /></p>
+
