@@ -5,11 +5,9 @@
 <img align="right" alt="sikkicoding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-- 🔭 I’m currently working on [WrongTryTracker](https://www.linkedin.com/feed/update/urn:li:activity:7096688403999551488?utm_source=share&utm_medium=member_desktop)
+- 🔭 I’m currently working on HealthCare Project
 
 - 🌱 I’m currently learning **Flutter Full-Stack App Development**
-
-- 👯 I’m looking to collaborate on [TheConnyApp](https://github.com/DavidWiehls/theconnyapp)
 
 - 💬 Ask me about **Flutter, Firebase, Illustrator**
 
