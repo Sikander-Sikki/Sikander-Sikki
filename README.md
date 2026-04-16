@@ -75,14 +75,10 @@
 
 ---
 
-
-
----
-
 ### 🎯 Current Focus
 
 * 📱 Building scalable Flutter apps
-* ☁️ Backend with Firebase
+* ☁️ Backend with Firebase + Node.js
 * 🎨 Clean UI/UX Design
 
 ---
