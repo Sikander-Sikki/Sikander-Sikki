@@ -40,7 +40,7 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,android,git,mysql,postman,illustrator" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,git,mysql,postman,illustrator" />
 </p>
 
 ---
