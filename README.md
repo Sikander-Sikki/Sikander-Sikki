@@ -45,19 +45,6 @@
 
 ---
 
-### 🚀 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/Sikander-Sikki">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sikander-Sikki&repo=ai_resume_score&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/Sikander-Sikki">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sikander-Sikki&repo=quran_app&theme=tokyonight" />
-  </a>
-</p>
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
