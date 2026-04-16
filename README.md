@@ -9,12 +9,12 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sikander-sikki&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Sikander-Sikki&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-<img align="right" alt="coding" width="320" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<img align="right" alt="coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 ### 👨‍💻 About Me
 
@@ -45,11 +45,31 @@
 
 ---
 
+### 🚀 Featured Project
+
+<p align="center">
+  <a href="https://github.com/Sikander-Sikki/ai_resume_score">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sikander-Sikki&repo=ai_resume_score&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
+---
+
+### 📱 App Preview (Portfolio Style)
+
+<p align="center">
+  <img src="https://via.placeholder.com/250x500.png?text=App+Screen+1" width="200"/>
+  <img src="https://via.placeholder.com/250x500.png?text=App+Screen+2" width="200"/>
+  <img src="https://via.placeholder.com/250x500.png?text=App+Screen+3" width="200"/>
+</p>
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sikander-sikki&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sikander-sikki&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sikander-Sikki&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sikander-Sikki&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 ---
@@ -57,7 +77,23 @@
 ### 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sikander-sikki&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Sikander-Sikki&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sikander-Sikki&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sikander-Sikki/Sikander-Sikki/output/snake.svg" alt="snake animation" />
 </p>
 
 ---
@@ -65,8 +101,8 @@
 ### 🎯 Current Focus
 
 * 📱 Building scalable Flutter apps
-* ☁️ Backend with Firebase + Node.js
-* 🎨 Clean UI/UX Design
+* ☁️ Firebase + Node.js backend
+* 🎨 Clean and modern UI/UX
 
 ---
 
