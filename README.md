@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on HealthCare Project
 
-- 🌱 I’m currently learning **Flutter Full-Stack App Development**
+- 🌱 I’m currently learning **Flutter Full-Stack Development**
 
 - 💬 Ask me about **Flutter, Firebase, Illustrator**
 
