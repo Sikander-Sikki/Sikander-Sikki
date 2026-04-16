@@ -48,11 +48,11 @@
 ### 🚀 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/sikander-sikki">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sikander-sikki&repo=ai_resume_score&theme=tokyonight" />
+  <a href="https://github.com/Sikander-Sikki">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sikander-Sikki&repo=ai_resume_score&theme=tokyonight" />
   </a>
-  <a href="https://github.com/sikander-sikki">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sikander-sikki&repo=quran_app&theme=tokyonight" />
+  <a href="https://github.com/Sikander-Sikki">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sikander-Sikki&repo=quran_app&theme=tokyonight" />
   </a>
 </p>
 
