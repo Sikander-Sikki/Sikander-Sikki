@@ -18,11 +18,9 @@
 
 ### 👨‍💻 About Me
 
-* 🔭 Working on **HealthCare App**
-* 🌱 Learning **Flutter Full-Stack Development**
-* 💬 Ask me about **Flutter, Firebase, UI Design**
+* 🔭 Working on Flutter and node.js
+* 💬 Ask me about **Flutter, Firebase, Antigravity and backend solution**
 * 📫 Email: **[sikandera379@gmail.com](mailto:sikandera379@gmail.com)**
-* ⚡ Fun fact: *I turn coffee ☕ into code*
 
 ---
 
@@ -56,6 +54,7 @@
 ### 🎯 Current Focus
 
 * 📱 Building scalable Flutter apps
+* 🎨 Building responsive websites using Antigravity  
 * ☁️ Firebase + Node.js backend
 * 🎨 Clean and modern UI/UX
 
