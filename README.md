@@ -45,51 +45,7 @@
 
 ---
 
-### 🚀 Featured Project
-
-<p align="center">
-  <a href="https://github.com/Sikander-Sikki/ai_resume_score">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sikander-Sikki&repo=ai_resume_score&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
----
-
-### 📱 App Preview (Portfolio Style)
-
-<p align="center">
-  <img src="https://via.placeholder.com/250x500.png?text=App+Screen+1" width="200"/>
-  <img src="https://via.placeholder.com/250x500.png?text=App+Screen+2" width="200"/>
-  <img src="https://via.placeholder.com/250x500.png?text=App+Screen+3" width="200"/>
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sikander-Sikki&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sikander-Sikki&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
----
-
-### 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Sikander-Sikki&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-### 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sikander-Sikki&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
----
-
+\
 ### 🐍 Contribution Snake
 
 <p align="center">
